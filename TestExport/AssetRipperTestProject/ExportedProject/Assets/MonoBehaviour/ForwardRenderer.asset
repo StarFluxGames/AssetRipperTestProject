@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1982320787, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+  m_Name: ForwardRenderer
+  m_EditorClassIdentifier:
+  m_RendererFeatures: []
+  m_RendererFeatureMap:
+  postProcessData: {fileID: 11400000, guid: 1ccaa8ef1ab98544d8561c2bfb3f1242, type: 2}
+  xrSystemData: {fileID: 11400000, guid: be143b2cdae383d48bc8479db15e10a2, type: 2}
+  shaders:
+    blitPS: {fileID: 4800000, guid: fc82ec44dae9fa94e9d0c583c9b0f3c5, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: 8076d42abcec0434fafbc6075c5eb48e, type: 3}
+    screenSpaceShadowPS: {fileID: 4800000, guid: eb2cd6a6e78ec01458fc541290579b03, type: 3}
+    samplingPS: {fileID: 4800000, guid: abd0c4cfad917d34a81640e148b42e62, type: 3}
+    tileDepthInfoPS: {fileID: 0}
+    tileDeferredPS: {fileID: 0}
+    stencilDeferredPS: {fileID: 4800000, guid: f0440f6a6354dd2419a0dee26ef932fa, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: 4e1ca907199c94143a245fd8cf4c47a3, type: 3}
+    materialErrorPS: {fileID: 4800000, guid: fccaec67eb90c2247a9f3924fba58ffa, type: 3}
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 0
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_AccurateGbufferNormals: 0
