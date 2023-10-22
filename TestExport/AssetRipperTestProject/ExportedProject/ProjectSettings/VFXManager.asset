@@ -3,10 +3,10 @@
 --- !u!937362698 &1
 VFXManager:
   m_ObjectHideFlags: 0
-  m_IndirectShader: {fileID: 7200000, guid: 6817e78e77bbbb9499aed0cb203bc87e, type: 2}
-  m_CopyBufferShader: {fileID: 7200000, guid: 3e6e04eda6fc3924d9c1c8d70f4c8c1a, type: 2}
-  m_SortShader: {fileID: 7200000, guid: c41e46eb994eafb408d91e916e87c3dc, type: 2}
-  m_StripUpdateShader: {fileID: 7200000, guid: 10aeb203548f5444bb9e730481c44a17, type: 2}
+  m_IndirectShader: {fileID: 7200000, guid: 2bd39f6ec6c404e47ae366ed3b1e2ffb, type: 2}
+  m_CopyBufferShader: {fileID: 7200000, guid: f4f04c2e1be557e4db996af7d7c81c60, type: 2}
+  m_SortShader: {fileID: 7200000, guid: 90e4b868416f3c94f9019ba2845725da, type: 2}
+  m_StripUpdateShader: {fileID: 7200000, guid: 86e9e35cd97f71c448e90122dd5ad536, type: 2}
   m_RenderPipeSettingsPath:
   m_FixedTimeStep: 0.016666668
   m_MaxDeltaTime: 0.05

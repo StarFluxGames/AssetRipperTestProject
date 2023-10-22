@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: XRSystemData
   m_EditorClassIdentifier:
   shaders:
-    xrOcclusionMeshPS: {fileID: 4800000, guid: 85b74b1ae766be443ac5cd9f081257de, type: 3}
-    xrMirrorViewPS: {fileID: 4800000, guid: b3e6351c10c3a6b48b1f5b07ef84ee4d, type: 3}
+    xrOcclusionMeshPS: {fileID: 4800000, guid: b1766918d1097694ea6fea3413d653a5, type: 3}
+    xrMirrorViewPS: {fileID: 4800000, guid: 3c7532c1a352aae41b3be39cbfdaeb65, type: 3}

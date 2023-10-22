@@ -601,7 +601,7 @@ VisualEffectAsset:
         index: 8
       - nameId: bounds_size
         index: 9
-      processor: {fileID: 7200000, guid: 65dac4ac9ccd3b340ae57832f5dc7e1a, type: 2}
+      processor: {fileID: 7200000, guid: c533590d274fe6c44be46ff000ea1d62, type: 2}
     - type: 805306368
       buffers:
       - nameId: attributeBuffer
@@ -617,7 +617,7 @@ VisualEffectAsset:
       - nameId: deltaTime_a
         index: 17
       params: []
-      processor: {fileID: 7200000, guid: f2ee1afb578a7c840b73dde823b0e23f, type: 2}
+      processor: {fileID: 7200000, guid: a11ae997876d8344595e2d2b6059d1b7, type: 2}
   - type: 1
     flags: 13
     capacity: 11520
@@ -667,7 +667,7 @@ VisualEffectAsset:
         index: 8
       - nameId: bounds_size
         index: 9
-      processor: {fileID: 7200000, guid: 23faf458bbe3b2f47bf0ec7b5df2da76, type: 2}
+      processor: {fileID: 7200000, guid: e60a4006df0bfb64fa7587dd5de047f1, type: 2}
     - type: 805306368
       buffers:
       - nameId: attributeBuffer
@@ -681,7 +681,7 @@ VisualEffectAsset:
       - nameId: deltaTime_a
         index: 17
       params: []
-      processor: {fileID: 7200000, guid: 799241be1ea8e31409ea25a00528f925, type: 2}
+      processor: {fileID: 7200000, guid: 1f544e393bd5796429691d5f3f5cd234, type: 2}
     - type: 1073741826
       buffers:
       - nameId: attributeBuffer
@@ -699,7 +699,7 @@ VisualEffectAsset:
         index: 0
       - nameId: strips
         index: 1
-      processor: {fileID: 4800000, guid: 5dbb627d040017d4987b297eab81ad65, type: 3}
+      processor: {fileID: 4800000, guid: 74a37170b0cc1e94f9aeff9fd8beb31a, type: 3}
   m_RendererSettings:
     motionVectorGenerationMode: 0
     shadowCastingMode: 0

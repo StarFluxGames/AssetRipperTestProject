@@ -14,18 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_RendererFeatures: []
   m_RendererFeatureMap:
-  postProcessData: {fileID: 11400000, guid: 1ccaa8ef1ab98544d8561c2bfb3f1242, type: 2}
-  xrSystemData: {fileID: 11400000, guid: be143b2cdae383d48bc8479db15e10a2, type: 2}
+  postProcessData: {fileID: 11400000, guid: f875ff2a185b2cb4a9962801675222f5, type: 2}
+  xrSystemData: {fileID: 11400000, guid: fa31890e39e56754497954c62f0f82e2, type: 2}
   shaders:
-    blitPS: {fileID: 4800000, guid: fc82ec44dae9fa94e9d0c583c9b0f3c5, type: 3}
-    copyDepthPS: {fileID: 4800000, guid: 8076d42abcec0434fafbc6075c5eb48e, type: 3}
-    screenSpaceShadowPS: {fileID: 4800000, guid: eb2cd6a6e78ec01458fc541290579b03, type: 3}
-    samplingPS: {fileID: 4800000, guid: abd0c4cfad917d34a81640e148b42e62, type: 3}
+    blitPS: {fileID: 4800000, guid: 2a5757ed467d2c94b8556e21392732af, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: 46602369a939a0c45ba904b78ea34b68, type: 3}
+    screenSpaceShadowPS: {fileID: 4800000, guid: 93ce996d7fdb2e244a2a239c57025346, type: 3}
+    samplingPS: {fileID: 4800000, guid: 4c6b7c1ab323d5d4887e31f5da6848b0, type: 3}
     tileDepthInfoPS: {fileID: 0}
     tileDeferredPS: {fileID: 0}
-    stencilDeferredPS: {fileID: 4800000, guid: f0440f6a6354dd2419a0dee26ef932fa, type: 3}
-    fallbackErrorPS: {fileID: 4800000, guid: 4e1ca907199c94143a245fd8cf4c47a3, type: 3}
-    materialErrorPS: {fileID: 4800000, guid: fccaec67eb90c2247a9f3924fba58ffa, type: 3}
+    stencilDeferredPS: {fileID: 4800000, guid: ce182feb0614e6046bcae1b691e4b473, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: 2ef828eb16afaf540a127cbef49aaaad, type: 3}
+    materialErrorPS: {fileID: 4800000, guid: 44b3d4e93d417184aa7bdd4fd3aa16a1, type: 3}
   m_OpaqueLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
